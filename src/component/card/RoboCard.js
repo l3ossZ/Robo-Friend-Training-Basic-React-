@@ -4,13 +4,13 @@ import "./RoboCard.css";
 const RoboCard = ({id,name,email}) =>{
     return(
         <div className="robot">
-            <div>
+            <div className="img">
                 <img src={`https://robohash.org/${id}?200x200`} alt="Robo" />
             </div>
-            <div>
+            <div className="h2">
                 <h2>{name}</h2>
             </div>
-            <div>
+            <div className="p">
                 <p>{email}</p>
             </div>
         </div>
