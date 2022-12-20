@@ -1,6 +1,7 @@
 import './App.css';
 import RoboCard from './component/card/RoboCard';
 import { robots } from './robots';
+import RoboCardList from './component/cardList/RoboCardList';
 
 function App() {
   return (
@@ -10,10 +11,7 @@ function App() {
       <div>
         <h1>Robo Friend</h1>
         <div>
-          {robots.map(robot => {
-            <RoboCard id={robot.id} name={robot.name} email={robot.email} />
-            return <RoboCard id={robot.id} name={robot.name} email={robot.email} />;
-          })};
+          <RoboCardList robots={robots} />
       </div>
         
       </div>
