@@ -1,0 +1,8 @@
+
+.robot{
+    background: aqua;
+    display: inline-block;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
