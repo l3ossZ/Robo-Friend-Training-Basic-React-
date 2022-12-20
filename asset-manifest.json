@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Robo-Friend-Training-Basic-React-/static/css/main.343abe53.css",
+    "main.js": "/Robo-Friend-Training-Basic-React-/static/js/main.c7bc2c03.js",
+    "static/js/787.49b8a4c1.chunk.js": "/Robo-Friend-Training-Basic-React-/static/js/787.49b8a4c1.chunk.js",
+    "index.html": "/Robo-Friend-Training-Basic-React-/index.html",
+    "main.343abe53.css.map": "/Robo-Friend-Training-Basic-React-/static/css/main.343abe53.css.map",
+    "main.c7bc2c03.js.map": "/Robo-Friend-Training-Basic-React-/static/js/main.c7bc2c03.js.map",
+    "787.49b8a4c1.chunk.js.map": "/Robo-Friend-Training-Basic-React-/static/js/787.49b8a4c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.343abe53.css",
+    "static/js/main.c7bc2c03.js"
+  ]
+}
