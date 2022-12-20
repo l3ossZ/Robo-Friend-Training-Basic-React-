@@ -1,5 +1,4 @@
 import './App.css';
-import RoboCard from './component/card/RoboCard';
 import { robots } from './robots';
 import RoboCardList from './component/cardList/RoboCardList';
 
